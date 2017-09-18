@@ -2,7 +2,7 @@ Course Page: [https://www.thecodewolf.com/courses/python-flask-web-development/]
 
 ### Overview & Installation
 - [Video](https://youtu.be/Ty2qAlDsAxc)
-- [Blog Post](https://www.thecodewolf.com/introduction-to-python-flask-web-development-overview-of-flask/
+- [Blog Post](https://www.thecodewolf.com/introduction-to-python-flask-web-development-overview-of-flask/)
 
 ### Hello World & Flask Application Structure
 - [Video](https://youtu.be/OrTWfZpv0i0)
